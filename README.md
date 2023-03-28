@@ -10,7 +10,7 @@ Detailed information: The mod will provide players with information about the lo
 Easy installation: The mod is easy to install and can be downloaded from the Steam Workshop or from the Colossal Order forums.
 Customization: The mod can be customized to catch exceptions in specific parts of the game or to only catch exceptions that meet certain criteria.
 
-#Installation
+# Installation
 To install the NullReferenceCatcher mod, follow these steps:
 Download the mod from the Steam Workshop
 Launch the Cities Skylines game and enable the mod in the content manager.
